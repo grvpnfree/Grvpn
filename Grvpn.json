@@ -4,18 +4,21 @@
 
 {
          "name": "TH-VIP-001",
-         "url": "https://raw.githubusercontent.com/Juessh/AungKoZin/main/AungKyawOo-001.ovpn"
+         "url": "https://raw.githubusercontent.com/grvpnfree/Grvpn/main/Grvip.ovpn"
       },
 
 {
          "name": "TH-VIP-002",
-         "url": "https://raw.githubusercontent.com/Juessh/AungKoZin/main/AungKyawOo-002.ovpn"
+         "url": "https://raw.githubusercontent.com/grvpnfree/Grvpn/main/Grvip.ovpn"
+      },
+{
+         "name": "TH-VIP-003",
+         "url": "https://raw.githubusercontent.com/grvpnfree/Grvpn/main/Grvip2.ovpn"
       }
 
 
-
    ],
-"message":"2 December 2022\n\n•Version:2\n\n•Add DTAC NoFree\n\n•Facebook : GR VPN\n\n•၀ယ္ယူအားေပးမွုအတြက္ေက်းဇူးပါ",
+"message":"2 December 2022\n\n•Version:4\n\n•Add DTAC NoFree\n\n•Facebook : GR VPN\n\n•၀ယ္ယူအားေပးမွုအတြက္ေက်းဇူးပါ",
    "title":"✅ VIP SERVER✅" ,
-   "version": 1
+   "version": 4
 }
