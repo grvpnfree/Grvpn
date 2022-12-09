@@ -15,13 +15,17 @@
 
 {
          "name": "TH-VIP-003",
-         "url": "https://raw.githubusercontent.com/grvpnfree/Grvpn/main/Grvip2.ovpn"
-      }
+         "url": "https://raw.githubusercontent.com/grvpnfree/Grvpn/main/Grvip3.ovpn"
+      },
 
+{
+         "name": "For GR",
+         "url": "https://raw.githubusercontent.com/grvpnfree/Grvpn/main/Grvip2.ovpn"
+      },
 
 
    ],
-"message":"7 December 2022\n\n•Version:2\n\n•Add DTAC NoFree\n\n•Facebook : GR VPN\n\n•၀ယ္ယူအားေပးမွုအတြက္ေက်းဇူးပါ",
+"message":"7 December 2022\n\n•Version:3\n\n•Add DTAC NoFree\n\n•Facebook : GR VPN\n\n•၀ယ္ယူအားေပးမွုအတြက္ေက်းဇူးပါ",
    "title":"✅ VIP SERVER✅" ,
-   "version": 2
+   "version": 3
 }
