@@ -13,7 +13,11 @@
       },
 {
          "name": "TH-VIP-003",
-         "url": "https://raw.githubusercontent.com/grvpnfree/Grvpn/main/Grvip2.ovpn"
+         "url": "https://github.com/grvpnfree/Grvpn/edit/main/Grvip2.ovpn"
+      },
+
+         "name": "ForGrfile",
+         "url": "https://github.com/grvpnfree/Grvpn/edit/main/Grvip3.ovpn"
       }
 
 
