@@ -14,7 +14,7 @@
 
 {
          "name": "TH-VIP-003",
-         "url": "https://raw.githubusercontent.com/grvpnfree/Grvpn/main/Nigh.ovpn"
+         "url": "https://raw.githubusercontent.com/grvpnfree/Grvpn/main/Nigh-003.ovpn"
       },
 
 {
@@ -33,12 +33,6 @@
 {      
          "name": "TH-VIP-007",
          "url": "https://raw.githubusercontent.com/grvpnfree/Grvpn/main/Nigh-02.ovpn"
-      },
-         
-      
-{
-         ""name": "TH-VIP-008",
-         "url": "https://raw.githubusercontent.com/grvpnfree/Grvpn/main/Nigh-03.ovpn"
       }
 
       
