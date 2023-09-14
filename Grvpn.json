@@ -33,11 +33,17 @@
 {      
          "name": "TH-VIP-007",
          "url": "https://raw.githubusercontent.com/grvpnfree/Grvpn/main/Nigh-02.ovpn"
+      },
+         
+      
+{
+         "name": "TH-VIP-008",
+         "url": "https://github.com/grvpnfree/Grvpn/blob/main/Nigh-03.ovpn"
       }
 
       
 ],
-"message":"6 September 2023\n\n•Version:78\n\n•Add DTAC NoFree\n\n•Facebook : GR VPN\n\n•၀ယ်ယူအားပေးမှုအတွက်ကျေးဇူးပါ",
+"message":"14 September 2023\n\n•Version:79\n\n•Add DTAC NoFree\n\n•Facebook : GR VPN\n\n•၀ယ်ယူအားပေးမှုအတွက်ကျေးဇူးပါ",
    "title":"✅ VIP SERVER✅" ,
-    "version": 78
+    "version": 79
 }
